@@ -9,6 +9,11 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp.spritesmith": "^6.9.0",
+    "merge-stream": "^1.0.1"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^5.0.0"
   }
 }
